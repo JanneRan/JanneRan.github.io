@@ -96,3 +96,5 @@ To doubt they were kneeling then.
 2. Pour a gallon of milk into the bowl.  
  Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
 
+Kuva editorista:
+![Kuva editorista](https://github.com/JanneRan/Ohjelmistotyokalut.github.io/blob/main/SS_VSC_editor.png?raw=true)
