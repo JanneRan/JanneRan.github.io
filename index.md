@@ -1,4 +1,4 @@
-## Janne Rantala web-tehtävä 
+## Janne Rantala web-tehtävä
 
 ### Tekstin muokkaus
 Writing in Markdown is _not_ that hard!  
