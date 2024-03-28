@@ -97,7 +97,7 @@ To doubt they were kneeling then.
  Now, you're going to want to crack the eggs in such a way that you don't make a mess.  
  If you _do_ make a mess, use a towel to clean it up!
 2. Pour a gallon of milk into the bowl.  
- Basically, take the same guidance as above: don't be messy, but if you are, clean it up!  
-[Työssä käytetyt git komennot](https://janneran.github.io/github)  
-Kuva editorista:
+ Basically, take the same guidance as above: don't be messy, but if you are, clean it up!   
+### [Työssä käytetyt git komennot](https://janneran.github.io/github)    
+### Kuva editorista:
 ![Kuva editorista](https://github.com/JanneRan/Ohjelmistotyokalut.github.io/blob/main/SS_VSC_editor.png?raw=true)
