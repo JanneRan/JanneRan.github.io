@@ -1,3 +1,5 @@
+## [JanneRan](https://janneran.github.io)
+
 **Github** lisäosa Visual Studio Codessa hoitaa tiedostojen siirron pääasiassa ilman terminaalia.  
 Tässä kuitenkin tiedostojen siirtoon tarvittavat käskyt. Myös käyttäjänimi ja sähköpostiosoite on kätevä laittaa terminaalista.
 
